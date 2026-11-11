@@ -1,0 +1,3 @@
+# Example only: replace the path with the absolute path to your local GGUF file.
+FROM /absolute/path/to/offline_cv_agent/models/qwen-coder.gguf
+PARAMETER temperature 0

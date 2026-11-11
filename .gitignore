@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.py[cod]
+chroma_db/**
+!chroma_db/.gitkeep
+models/**
+!models/.gitkeep
+workspace/**
+!workspace/.gitkeep
+outputs/**
+!outputs/.gitkeep
+.DS_Store
